@@ -1,8 +1,7 @@
 # Author: Joel Swenddal
 # Date: 06/01/2021
-# Course: CS 162
-# Semester: Spring 2021
-# Description: Project 9 - Portfolio Project - KubaGame
+# Title: Kuba Game
+# Description:
 #   Program implements game play, turn taking, movement, and game state updating
 #   for the game Kuba. Kuba takes place on a 7x7 grid using Black, White and Red marbles.
 #   Two players, assigned Black or White marbles, take turns pushing their marbles one
